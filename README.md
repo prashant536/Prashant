@@ -1,4 +1,4 @@
-# Prashant Dhakal
+# About me :-)
 
 - Hello there! I’m Prashant Dhakal
 - I work with data to create solutions to data driven problems and genreate new inisights into data analysis and growth.
